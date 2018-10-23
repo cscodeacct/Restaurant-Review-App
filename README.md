@@ -19,9 +19,9 @@ The Developer is provided with Starter Kit (the code) for a restaurant reviews w
 
 ### Requirements
 
-Python is required
-Web accessibilty is required
-Responsiveness
+* Python is required
+* Web accessibilty is required
+* Responsiveness
 
 ### Steps to begin
 
