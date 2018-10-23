@@ -39,6 +39,6 @@ https://cscodeacct.github.io/Restaurant-Review-App
 
 I will like to show my appreciation and acknowledgement to developers and organisations whom their online resources aided and guided me through out this project.
 
-google.com
-stackoverflow.com
-https://matthewcranford.com/restaurant-reviews-app-walkthrough
+* google.com
+* stackoverflow.com
+* https://matthewcranford.com/restaurant-reviews-app-walkthrough
