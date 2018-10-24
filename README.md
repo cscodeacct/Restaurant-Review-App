@@ -19,9 +19,9 @@ The Developer is provided with Starter Kit (the code) for a restaurant reviews w
 
 ### Requirements
 
-Python is required
-Web accessibilty is required
-Responsiveness
+* Python is required
+* Web accessibilty is required
+* Responsiveness
 
 ### Steps to begin
 
@@ -39,6 +39,6 @@ https://cscodeacct.github.io/Restaurant-Review-App
 
 I will like to show my appreciation and acknowledgement to developers and organisations whom their online resources aided and guided me through out this project.
 
-google.com
-stackoverflow.com
-https://matthewcranford.com/restaurant-reviews-app-walkthrough
+* google.com
+* stackoverflow.com
+* https://matthewcranford.com/restaurant-reviews-app-walkthrough
